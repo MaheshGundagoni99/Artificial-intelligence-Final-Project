@@ -1,1 +1,1 @@
-# Artificial-intelligence-Final-Project
+# Snake game using Reinforcement Learning
